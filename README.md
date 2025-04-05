@@ -36,8 +36,6 @@
 Profesional de la carrera de Computación e Informática del Instituto Superior Tecnológico ARGENTINA. Proactivo, analítico y responsable. Comprometido con brindar soluciones efectivas a los problemas empresariales, adaptándome a nuevas formas de trabajo con conocimientos actualizados. Conocimientos técnicos en lenguajes de programación como JavaScript, Python, C#, Kotlin y Java; estilos y estructuras web con CSS y HTML; manejo de bases de datos como Microsoft SQL Server, MySQL, PostgreSQL y MongoDB; frameworks y bibliotecas como Angular, AngularJS, Node.js y React. Experiencia en herramientas de análisis y gestión como Power BI, Notion, Microsoft Excel, Microsoft Office y Microsoft Access; sistemas operativos como Windows y Linux, además de diseño y prototipado con Figma. Especializado en tecnologías Back End y Front End para el desarrollo web y móvil, manejo de bases de datos y gestión de proyectos.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarlosMunozMejico&layout=compact)
 
 <!--
