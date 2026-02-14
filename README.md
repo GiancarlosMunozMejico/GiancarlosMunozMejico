@@ -44,6 +44,7 @@ Como valor agregado, poseo experiencia en soporte técnico y gestión de inciden
 el ciclo de vida de las aplicaciones y anticipar problemas de conectividad, accesos o configuración. Esta visión me ayuda a diseñar
 soluciones más robustas y confiables.
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
 
 <!--
 **GiancarlosMunozMejico/GiancarlosMunozMejico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
