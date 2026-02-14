@@ -44,7 +44,7 @@ Como valor agregado, poseo experiencia en soporte técnico y gestión de inciden
 el ciclo de vida de las aplicaciones y anticipar problemas de conectividad, accesos o configuración. Esta visión me ayuda a diseñar
 soluciones más robustas y confiables.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico)](https://github.com/GiancarlosMunozMejico/github-readme-stats)
 
 <!--
 **GiancarlosMunozMejico/GiancarlosMunozMejico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
