@@ -53,7 +53,6 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 
 ## 📊 Estadísticas de GitHub
 
-
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -69,7 +68,7 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.GiancarlosMunozMejico.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -87,7 +86,6 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 
 </p>        
 <!--- stats (end) -->
-
 ---
 
 <!--
