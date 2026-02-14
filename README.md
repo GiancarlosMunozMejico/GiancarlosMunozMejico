@@ -1,4 +1,4 @@
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlmaWk1bzlibWZrd25jNDQ4b3l2cWI4azJkaTdoNDFocWg0dTFuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="200"/> 
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlmaWk1bzlibWZrd25jNDQ4b3l2cWI4azJkaTdoNDFocWg0dTFuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="200"/>  
 # Bienvenid@ al GitHub de Giancarlos Muñoz Mejico
 
 ![Banner de Giancarlos Muñoz](LENGUAJES-DE-PROGRAMACION.jpg)
@@ -6,7 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giancarlosgmunozmejico/)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
- ### 🚀 Tecnologías y herramientas
+---
+
+### 🚀 Tecnologías y herramientas
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,32 +33,32 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
+### 👨‍💻 Sobre mí
 
-Soy un desarrollador web y de software con experiencia en la creación, optimización y mantenimiento de aplicaciones empresariales. Me
-especializo en tecnologías Front End y Back End, combinando lógica de programación con diseño orientado a la experiencia de usuario.
-Domino HTML, CSS, JavaScript y PHP, junto con frameworks como Laravel, Symfony y CodeIgniter, lo que me permite construir
-soluciones escalables y eficientes. Además, cuento con conocimientos intermedios en Python, Java, SQL y Power BI, ampliando mis
-capacidades en análisis de datos, automatización y desarrollo de aplicaciones más completas. Mi enfoque está en la calidad del código, la optimización del rendimiento y la documentación clara, asegurando que cada proyecto esté
-alineado con buenas prácticas y procesos de desarrollo. Manejo herramientas de gestión como Jira, OTRS y Zendesk, y tengo experiencia
-trabajando en entornos Windows y Linux.
-Como valor agregado, poseo experiencia en soporte técnico y gestión de incidencias, lo que me permite comprender de manera integral
-el ciclo de vida de las aplicaciones y anticipar problemas de conectividad, accesos o configuración. Esta visión me ayuda a diseñar
-soluciones más robustas y confiables.
+Soy un desarrollador web y de software con experiencia en la creación, optimización y mantenimiento de aplicaciones empresariales.  
+Me especializo en tecnologías **Front End** y **Back End**, combinando lógica de programación con diseño orientado a la experiencia de usuario.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico)](https://github.com/GiancarlosMunozMejico/github-readme-stats)
+Domino **HTML, CSS, JavaScript y PHP**, junto con frameworks como **Laravel, Symfony y CodeIgniter**, lo que me permite construir soluciones escalables y eficientes.  
+Además, cuento con conocimientos intermedios en **Python, Java, SQL y Power BI**, ampliando mis capacidades en análisis de datos, automatización y desarrollo de aplicaciones más completas.  
+
+Mi enfoque está en la **calidad del código**, la **optimización del rendimiento** y la **documentación clara**, asegurando que cada proyecto esté alineado con buenas prácticas y procesos de desarrollo.  
+
+Manejo herramientas de gestión como **Jira, OTRS y Zendesk**, y tengo experiencia trabajando en entornos **Windows y Linux**.  
+Como valor agregado, poseo experiencia en **soporte técnico y gestión de incidencias**, lo que me permite comprender de manera integral el ciclo de vida de las aplicaciones y anticipar problemas de conectividad, accesos o configuración.  
+Esta visión me ayuda a diseñar soluciones más robustas y confiables.  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarlosMunozMejico&layout=compact&theme=radical)
+
+---
 
 <!--
-**GiancarlosMunozMejico/GiancarlosMunozMejico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**GiancarlosMunozMejico/GiancarlosMunozMejico** es un ✨ repositorio especial ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
