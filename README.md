@@ -33,10 +33,17 @@
 
 
 
-Profesional de la carrera de Computación e Informática del Instituto Superior Tecnológico ARGENTINA. Proactivo, analítico y responsable. Comprometido con brindar soluciones efectivas a los problemas empresariales, adaptándome a nuevas formas de trabajo con conocimientos actualizados. Conocimientos técnicos en lenguajes de programación como JavaScript, Python, C#, Kotlin y Java; estilos y estructuras web con CSS y HTML; manejo de bases de datos como Microsoft SQL Server, MySQL, PostgreSQL y MongoDB; frameworks y bibliotecas como Angular, AngularJS, Node.js y React. Experiencia en herramientas de análisis y gestión como Power BI, Notion, Microsoft Excel, Microsoft Office y Microsoft Access; sistemas operativos como Windows y Linux, además de diseño y prototipado con Figma. Especializado en tecnologías Back End y Front End para el desarrollo web y móvil, manejo de bases de datos y gestión de proyectos.
+Soy un desarrollador web y de software con experiencia en la creación, optimización y mantenimiento de aplicaciones empresariales. Me
+especializo en tecnologías Front End y Back End, combinando lógica de programación con diseño orientado a la experiencia de usuario.
+Domino HTML, CSS, JavaScript y PHP, junto con frameworks como Laravel, Symfony y CodeIgniter, lo que me permite construir
+soluciones escalables y eficientes. Además, cuento con conocimientos intermedios en Python, Java, SQL y Power BI, ampliando mis
+capacidades en análisis de datos, automatización y desarrollo de aplicaciones más completas. Mi enfoque está en la calidad del código, la optimización del rendimiento y la documentación clara, asegurando que cada proyecto esté
+alineado con buenas prácticas y procesos de desarrollo. Manejo herramientas de gestión como Jira, OTRS y Zendesk, y tengo experiencia
+trabajando en entornos Windows y Linux.
+Como valor agregado, poseo experiencia en soporte técnico y gestión de incidencias, lo que me permite comprender de manera integral
+el ciclo de vida de las aplicaciones y anticipar problemas de conectividad, accesos o configuración. Esta visión me ayuda a diseñar
+soluciones más robustas y confiables.
 
-![Giancarlos Muñoz' GitHub stats](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarlosMunozMejico&layout=compact&theme=dark)
 
 <!--
 **GiancarlosMunozMejico/GiancarlosMunozMejico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
