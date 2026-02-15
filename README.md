@@ -74,12 +74,7 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 <!--- stats (end) -->
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico&show_icons=true&theme=radical)
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarlosMunozMejico&layout=compact&theme=dracula)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiancarlosMunozMejico&show_icons=true&theme=radical&cache_seconds=86400)
 <!--
 **GiancarlosMunozMejico/GiancarlosMunozMejico** es un ✨ repositorio especial ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
