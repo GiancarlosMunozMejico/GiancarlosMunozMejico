@@ -72,9 +72,6 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 </tr>
 </table>
 <!--- stats (end) -->
-## 📊 GitHub Stats
-
-## 📊 GitHub Summary
 
 
 <!--
