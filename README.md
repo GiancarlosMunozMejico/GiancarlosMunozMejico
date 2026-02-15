@@ -76,17 +76,6 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 
 ## 📊 GitHub Summary
 
-<!-- Tarjeta de estadísticas generales -->
-![Stats](https://raw.githubusercontent.com/GiancarlosMunozMejico/GiancarlosMunozMejico/main/profile-summary-card-output/default/3-stats.svg)
-
-<!-- Lenguajes más usados -->
-![Languages](https://raw.githubusercontent.com/GiancarlosMunozMejico/GiancarlosMunozMejico/main/profile-summary-card-output/default/2-most-commit-language.svg)
-
-<!-- Repositorios por lenguaje -->
-![Repos per Language](https://raw.githubusercontent.com/GiancarlosMunozMejico/GiancarlosMunozMejico/main/profile-summary-card-output/default/1-repos-per-language.svg)
-
-<!-- Horas más productivas -->
-![Productive Time](https://raw.githubusercontent.com/GiancarlosMunozMejico/GiancarlosMunozMejico/main/profile-summary-card-output/default/4-productive-time.svg)
 
 <!--
 **GiancarlosMunozMejico/GiancarlosMunozMejico** es un ✨ repositorio especial ✨ porque su `README.md` aparece en tu perfil de GitHub.
