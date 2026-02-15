@@ -52,8 +52,6 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 ---
 
 ## 📊 Estadísticas de GitHub
-
-<h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -74,8 +72,6 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 </tr>
 </table>
 <!--- stats (end) -->
-
-
 <!--
 **GiancarlosMunozMejico/GiancarlosMunozMejico** es un ✨ repositorio especial ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
