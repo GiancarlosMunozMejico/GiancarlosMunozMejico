@@ -76,10 +76,6 @@ Esta visión me ayuda a diseñar soluciones más robustas y confiables.
 <!--- stats (end) -->
 
 
-</p>        
-<!--- stats (end) -->
----
-
 <!--
 **GiancarlosMunozMejico/GiancarlosMunozMejico** es un ✨ repositorio especial ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
